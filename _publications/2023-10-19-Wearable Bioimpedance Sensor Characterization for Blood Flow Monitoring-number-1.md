@@ -5,7 +5,7 @@ permalink: /publication/2024-02-17-Wearable Bioimpedance Sensor Characterization
 excerpt: 'wearable bioimpedance sensing, biomedical system design, effective number of bits, blood flow, cuffless blood pressure monitoring'
 date: 2023-10-19
 venue: 'IEEE Biomedical Circuits and Systems (BIOCAS)'
-paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10388901'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10388901'
 citation: ''
 ---
 
