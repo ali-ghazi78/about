@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Cuffless Blood Pressure Estimation Using Magnetic Flux In A Ring Form Factor"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: ' ' 
+date: 2024
+venue: 'ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445982'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
