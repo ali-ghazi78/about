@@ -5,7 +5,7 @@ permalink: /publication/2024-04-14-Cuffless Blood Pressure Estimation Using Magn
 excerpt: 'Cuffless Blood Pressure, Wearable Devices, Smart Ring, Hall Sensor, Magnetic Flux.'
 date: 2024-04-14
 venue: 'ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
-paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445982'
+paperurl: 'https://ieeexplore.ieee.org/document/10445982'
 citation: ''
 ---
 
