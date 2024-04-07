@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Cuffless Blood Pressure Estimation Using Magnetic Flux In A Ring Form Factor"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
