@@ -6,7 +6,7 @@ excerpt: 'Cuffless Blood Pressure, Wearable Devices, Smart Ring, Hall Sensor, Ma
 date: 2024-04-14
 venue: 'ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445982'
-'
+citation: ''
 ---
 
 Smart rings represent a promising frontier in wearables for
