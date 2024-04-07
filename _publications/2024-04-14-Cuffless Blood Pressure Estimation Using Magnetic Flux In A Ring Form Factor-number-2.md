@@ -1,7 +1,7 @@
 ---
 title: "Cuffless Blood Pressure Estimation Using Magnetic Flux In A Ring Form Factor"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2024-04-14-Cuffless Blood Pressure Estimation Using Magnetic Flux In A Ring Form Factor-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-04-14
 venue: 'ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
