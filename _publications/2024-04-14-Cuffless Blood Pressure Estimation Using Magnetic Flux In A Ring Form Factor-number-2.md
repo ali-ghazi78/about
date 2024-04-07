@@ -6,14 +6,7 @@ excerpt: 'Cuffless Blood Pressure, Wearable Devices, Smart Ring, Hall Sensor, Ma
 date: 2024-04-14
 venue: 'ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445982'
-citation: '@inproceedings{asgar2024cuffless,
-  title={Cuffless Blood Pressure Estimation Using Magnetic Flux In A Ring Form Factor},
-  author={Asgar, Seyed Ali Ghazi and Sel, Kaan and Paul, Anando and Pettigrew, Roderic I and Jafari, Roozbeh},
-  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={186--190},
-  year={2024},
-  organization={IEEE}
-}'
+'
 ---
 
 Smart rings represent a promising frontier in wearables for
