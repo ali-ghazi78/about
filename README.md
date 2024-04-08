@@ -1,12 +1,4 @@
 
-# Academic Pages
-
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-
-Academic Pages is a Github Pages template for academic websites.
-
-
-# Getting Started
 
 Cuffless Blood Pressure Estimation Using Magnetic Flux In A Ring Form Factor
 Published in ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
